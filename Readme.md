@@ -1,2 +1,2 @@
-# Example Restaurant Website
+# Example Website
 An example website created purely in HTML and CSS.
